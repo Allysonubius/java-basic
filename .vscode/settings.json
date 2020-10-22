@@ -1,3 +1,4 @@
 {
-    "DockerRun.DisableAutoGenerateConfig": true
+    "DockerRun.DisableAutoGenerateConfig": true,
+    "compile-hero.disable-compile-files-on-did-save-code": false
 }
