@@ -25,11 +25,11 @@ public class Exer04 {
         double media = (nota_01 + nota_02 + nota_03 + nota_04) / 4;
 
         if(media >= 1){
-            if (media <= 4.9){
+            if (media >= 1 && media <= 5){
                 condicao = 1 ;
-                System.out.println("\n" + "Reprovado! " + media);
+                System.out.println("\n" + "Reprovado " + media);
             }
-            if (media >= 5){
+            if (media >= 5 && media <=10){
                 condicao = 2 ;
                 System.out.println("\n" + "Aprovado " + media);
             }
