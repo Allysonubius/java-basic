@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula-11/Aula-11.iml" filepath="$PROJECT_DIR$/Aula-11/Aula-11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula-12/Aula-12.iml" filepath="$PROJECT_DIR$/Aula-12/Aula-12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula-13/Aula-13.iml" filepath="$PROJECT_DIR$/Aula-13/Aula-13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula-14/Aula-14.iml" filepath="$PROJECT_DIR$/Aula-14/Aula-14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula-15/Aula-15.iml" filepath="$PROJECT_DIR$/Aula-15/Aula-15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula-16/Aula-16.iml" filepath="$PROJECT_DIR$/Aula-16/Aula-16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-10/aula-10.iml" filepath="$PROJECT_DIR$/aula-10/aula-10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-6/aula-6.iml" filepath="$PROJECT_DIR$/aula-6/aula-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-8/aula-8.iml" filepath="$PROJECT_DIR$/aula-8/aula-8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-9/aula-9.iml" filepath="$PROJECT_DIR$/aula-9/aula-9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-basic.iml" filepath="$PROJECT_DIR$/java-basic.iml" />
+    </modules>
+  </component>
+</project>
